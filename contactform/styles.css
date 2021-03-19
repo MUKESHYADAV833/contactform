@@ -1,0 +1,39 @@
+body{
+    background-color:cornflowerblue;
+}
+.contact{
+    text-align: center;
+    font-size: xxx-large;
+    margin: 1%;
+}
+.text{
+    text-align: -webkit-center;
+    font-size: larger;
+}
+.fname{
+    text-align: left;
+}
+#ename{
+    text-align: left;
+    margin-left: 2%;
+    min-width:32%;
+}
+.mail{
+    left: 20px;
+    min-width: -webkit-fill-available;
+}
+
+#s:hover {
+    background-color: #45a049;
+    
+}
+#s {
+    background-color: #45a049;
+    text-align: center;
+    margin-left: 200px;
+    font-size: x-large;
+}
+#subject{
+    min-width: 32%;
+    margin-left: 2%;
+}
